@@ -1,4 +1,4 @@
-# NETCD-Lab-Test
+# CNETF-Lab-Test
 This is my lab test submission for one of my modules. 
 
 # Overview
